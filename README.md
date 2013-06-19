@@ -1,2 +1,2 @@
 <h1>Maquetas Learn Chile</h1>
-<p>Maquetas para Learn Chile desarrolladas por AyerViernes.</p>
+<p>Maquetas para el Proyecto <strong>Learn Chile</strong> desarrolladas por AyerViernes.</p>
